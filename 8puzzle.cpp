@@ -1,5 +1,4 @@
 #include<bits/stdc++.h>
-#include<conio.h>
 using namespace std;
 typedef struct dataset
 {
